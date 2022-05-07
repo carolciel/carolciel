@@ -4,9 +4,9 @@
 - 🌱 Front-End student
 - 😄 Pronouns: she/her
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolciel&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolciel&layout=compact&langs_count=7&theme=material-palenight"/>
+<div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carolciel&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolciel&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
 
 <div style="display: inline_block"><br>
