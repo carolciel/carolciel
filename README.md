@@ -20,6 +20,7 @@
 
 <div> 
   <a href="https://www.linkedin.com/in/carolina-gomes-166b56235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://codepen.io/loorac" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/carolciel/carolciel/blob/output/github-contribution-grid-snake.svg)
 </div>
